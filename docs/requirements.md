@@ -1,4 +1,23 @@
-Project Requirements
+Requirements
+Hardware Requirements
+Computer/Laptop
+Webcam or Camera
+Internet Connection
+Minimum 4 GB RAM
+Software Requirements
+Python 3.x
+Visual Studio Code
+Git & GitHub
+OpenCV
+MediaPipe
+NumPy
+Pandas
+Dataset Requirements
+Images and videos containing Indian Sign Language non-manual features.
+Facial expression and head movement samples.
+User Requirements
+Basic knowledge of Python.
+Basic understanding of GitHub.Project Requirements
 Hardware Requirements
 Laptop/Desktop
 Webcam
